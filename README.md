@@ -20,7 +20,7 @@ Welcome to my portfolio website repository! This is a personal website where I s
 ### JavaScript
 
 # Installation
-Clone the repository: git clone https://github.com/your-username/portfolio-website.git](https://github.com/DivyangJoshi1/Portfolio_Website.git
+Clone the repository: https://github.com/DivyangJoshi1/Portfolio_Website.git
 
 # License
 This project is licensed under the MIT License.
